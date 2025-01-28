@@ -5,10 +5,6 @@
 
 - 🔭 I’m currently working on **a social app**
 
-- 👨‍💻 All of my projects are available at [...](...)
-
-- 📝 I regularly write articles on [...](...)
-
 - 💬 Ask me about **anything**
 
 - 📫 How to reach me **adnaneennachat@gmail.com**
