@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **adnaneennachat@gmail.com**
 
-- 📄 Know about my experiences [...](...)
-
 - ⚡ Fun fact **I'm a gamer**
 
 <h3 align="left">Connect with me:</h3>
